@@ -2,7 +2,7 @@
 
 > **Note:** This project and code are built for the codelab: [Building with Google Antigravity](https://codelabs.developers.google.com/building-with-google-antigravity)
 
-This repository contains the `order.py` file, which implements the core business logic for an e-commerce **Order** system. It is structured cleanly to separate concerns using Dependency Injection, making it highly testable and maintainable (aligning well with SOLID principles).
+This repository contains the `order.py` file, which implements the core business logic for an e-commerce **Order** system. 
 
 Here is a breakdown of its key components and architecture.
 
